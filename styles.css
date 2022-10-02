@@ -49,6 +49,9 @@ body {
         text-align:center;
 }
 
+a{
+    color: rgb(126, 126, 6);
+}
 .img {
     background-image: url("hund.jpg");
     background-position: center;
@@ -58,7 +61,7 @@ body {
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
-}
+} 
 .title2  {
     text-align:left;
     }
